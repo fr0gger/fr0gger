@@ -8,10 +8,9 @@ Welcome on my Github profile!
  🧪  Find my Jupyter notebook experimentation [here!](https://fr0gger.github.io/jupyter-collection/)
  
  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/SecurityBreak)
+ 
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fr0gger&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fr0gger&repo=convoychat" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fr0gger&show_icons=true&theme=tokyonight"/>
+</p>
