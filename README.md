@@ -9,4 +9,4 @@ Welcome on my Github profile!
  
  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/SecurityBreak)
 
-![Fr0gger's GitHub stats](https://github-readme-stats.vercel.app/api?username=fr0gger&theme=dark&show_icons=true)
+![Fr0gger's GitHub stats](https://github-readme-stats.vercel.app/api?username=fr0gger&theme=tokyonight&show_icons=true)
