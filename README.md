@@ -4,9 +4,11 @@ Welcome on my Github profile!
 
  🛡️  I am a Security Researcher working on malware analysis and threat intelligence! <br />
  👾  I am maintening the [Unprotect Project](https://unprotect.it/) a database dedicated to malware evasion techniques. [Contribute Here!](https://github.com/Unprotect-Project/Unprotect_Submission)<br />
- 🥷  I am currently involved in the development of [MSTICpy](https://github.com/microsoft/msticpy).<br />
+ 🥷  I have created YaraToolkit and all in one platform for YARA [YaraToolkit](https://yaratoolkit.securitybreak.io/).<br />
+ ✨  I released NOVA which is the first prompt pattern hunting to detect abuse of LLM applications [NOVA](https://novahunting.ai).<br />
  🔥  I mostly like Python, C++, reverse engineering, Yara!<br />
  🧪  Find my Jupyter notebook experimentation [here!](https://fr0gger.github.io/jupyter-collection/)
+ 🤖  I created a complete training on Threat Intelligence and Generative AI, [Find mode details!](https://store.securitybreak.io/ctiai)
  
 ---
 
