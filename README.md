@@ -7,7 +7,7 @@ Welcome on my Github profile!
  🥷  I have created YaraToolkit, an all in one platform for YARA [YaraToolkit](https://yaratoolkit.securitybreak.io/).<br />
  ✨  I released NOVA which is the first prompt pattern hunting to detect abuse of LLM applications [NOVA](https://novahunting.ai).<br />
  🧪  Find my Jupyter notebook experimentation [here!](https://fr0gger.github.io/jupyter-collection/) <br />
- 🤖  I created a complete training on Threat Intelligence and Generative AI, [Find more details!](https://store.securitybreak.io/ctiai)
+ 🤖  I created a complete training on Threat Intelligence and Generative AI, [Find more details!](https://securitybreak.io/training)
  
 ---
 
