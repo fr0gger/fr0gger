@@ -10,7 +10,3 @@ Welcome on my Github profile!
  🤖  I created a complete training on Threat Intelligence and Generative AI, [Find more details!](https://securitybreak.io/training)
  
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fr0gger&show_icons=true&theme=tokyonight"/>
-</p>
